@@ -1,6 +1,5 @@
 pip==23.1.2
 wheel
-pyaudio==0.2.13
 absl-py==1.4.0
 aniso8601==9.0.1
 astunparse==1.6.3
@@ -90,3 +89,4 @@ urllib3==1.26.14
 webcolors==1.13
 Werkzeug==2.2.3
 wrapt==1.14.1
+
